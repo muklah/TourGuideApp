@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <string name="name">Name</string>
+    <string name="location">Location</string>
+    <string name="description">TourGuideApp</string>
+    <string name="phone">TourGuideApp</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="nakeel_mall">Nakeel Mall</string>
+    <string name="mansour_mall">Mansour Mall</string>
+    <string name="babylon_mall">Babylon Mall</string>
+
+    <string name="malls">Malls</string>
+    <string name="resorts">Summer Resorts</string>
+    <string name="restaurants">Restaurants</string>
+
+    <string name="nakeel_mall_location">Baghdad / Zayona</string>
+    <string name="mansour_mall_location">Baghdad / Mansour</string>
+    <string name="babylon_mall_location">Baghdad / Mansour</string>
+
+    <string name="nakeel_mall_description">One of the biggest malls on all resafa area of Baghdad</string>
+    <string name="mansour_mall_description">The first mall opend in Baghdad</string>
+    <string name="babylon_mall_description">One of the most special malls in Baghdad</string>
+
+    <string name="nakeel_mall_phone">+9647703921191</string>
+    <string name="mansour_mall_phone">+9647703921191</string>
+    <string name="babylon_mall_phone">+9647703921191</string>
+
+
+    <string name="food_land">Food Land</string>
+    <string name="ice_pack">Ice Pack</string>
+
+    <string name="food_land_location">Baghdad / Jaderya</string>
+    <string name="ice_pack_location">Baghdad / Mansour</string>
+
+    <string name="food_land_description">It contain Totti Froti and Super Star ans Ice Pack and Pizza House</string>
+    <string name="ice_pack_description">One of the most taste ice cream in Baghdad</string>
+
+    <string name="food_land_phone">+9647703921191</string>
+    <string name="ice_pack_phone">+9647703921191</string>
+
+
+    <string name="ahmed_aoa">Ahmed Aoa</string>
+    <string name="chavi_land">Chavi Land</string>
+    <string name="kali_ali_bek">Kali Ali Bek</string>
+
+    <string name="ahmed_aoa_location">Sulaymania / North of Iraq</string>
+    <string name="chavi_land_location">Sulaymania / North of Iraq</string>
+    <string name="kali_ali_bek_location">Erbil / North of Iraq</string>
+
+    <string name="ahmed_aoa_description">One of the biggest malls on all resafa area of Baghdad</string>
+    <string name="chavi_land_description">The first mall opend in Baghdad</string>
+    <string name="kali_ali_bek_description">One of the most special malls in Baghdad</string>
+
+    <string name="ahmed_aoa_phone">+9647703921191</string>
+    <string name="chavi_land_phone">+9647703921191</string>
+    <string name="kali_ali_bek_phone">+9647703921191</string>
+
+</resources>
